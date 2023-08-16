@@ -1,0 +1,2 @@
+# SdetTraining
+Repository for Practice
